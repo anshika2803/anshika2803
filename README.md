@@ -16,3 +16,8 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: anshikamaheshwari28@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: No one likes debugging 
+
+
+
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anshika-maheshwari-6570209a/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](instagram.com/anshika_3082/) [<img src = "https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/anshika280301)
+</br>

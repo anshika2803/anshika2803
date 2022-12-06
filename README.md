@@ -1,9 +1,9 @@
 ### <h2>नमस्ते (Namaste)🙏🏻, I'm Anshika!
   </br>
   
-  <img align="left"  src="https://media.giphy.com/media/lwTkLoHGpSDV4uK8oC/giphy-downsized-large.gif" alt="Anshika Maheshwari" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+  <img align=""  src="https://media.giphy.com/media/lwTkLoHGpSDV4uK8oC/giphy-downsized-large.gif" alt="Anshika Maheshwari" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
   
-  <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
+  <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="100" height="100"/>
 </br></br></br>
 
 <!--

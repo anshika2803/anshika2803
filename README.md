@@ -1,5 +1,6 @@
 ### <h2>नमस्ते (Namaste)🙏🏻, I'm Anshika!
   </br>
+  <img align="left"  src="https://media.giphy.com/media/lwTkLoHGpSDV4uK8oC/giphy-downsized-large.gif" alt="Anshika Maheshwari" width="" height=""/>
   <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="170" height="170"/>
 
 

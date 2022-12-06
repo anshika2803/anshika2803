@@ -2,17 +2,19 @@
   </br>
   
   <img align="left"  src="https://media.giphy.com/media/lwTkLoHGpSDV4uK8oC/giphy-downsized-large.gif" alt="Anshika Maheshwari" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+  
+  <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
+</br></br></br>
+
 <!--
 **anshika2803/anshika2803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Full Stack Web Development 
+- 🌱 I’m currently learning Solidity Programming
+- 👯 I’m looking to collaborate on Web3 projects
+- 💬 Ask me about web dev, smart contract
+- 📫 How to reach me: anshikamaheshwari28@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: No one likes debugging 

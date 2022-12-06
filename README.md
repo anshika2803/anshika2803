@@ -1,7 +1,7 @@
 ### <h2>नमस्ते (Namaste)🙏🏻, I'm Anshika!
   </br>
-  <img align="left"  src="" alt="Anshika Maheshwari" width="" height=""/>
-  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/lwTkLoHGpSDV4uK8oC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><</a></p>
+  <img align="left"  src="https://media.giphy.com/media/lwTkLoHGpSDV4uK8oC/giphy.gif" alt="Anshika Maheshwari" width="600" height="150"/>
+  
   <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="170" height="170"/>
 
 

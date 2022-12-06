@@ -1,14 +1,15 @@
 ### <h2>नमस्ते (Namaste)🙏🏻, I'm Anshika!
   </br>
   <img align="left"  src="https://media.giphy.com/media/lwTkLoHGpSDV4uK8oC/giphy.gif" alt="Anshika Maheshwari" width="600" height="150"/>
-  
+  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
   <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="170" height="170"/>
+  </br></br></br>
 
 
 <!--
-**anshika2803/anshika2803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**anshika2803/anshika2803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:-->
+###Here are some ideas to get you started:</br>
 
 - 🔭 I’m currently working on Full Stack Web Development 
 - 🌱 I’m currently learning Solidity Programming

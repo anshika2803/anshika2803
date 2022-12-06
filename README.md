@@ -1,13 +1,10 @@
 ### <h2>नमस्ते (Namaste)🙏🏻, I'm Anshika!
-  </br>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshika2803" alt="gargakshit" /> </p>
 <img align="right" height="200px" alt="GIF" src="https://api.daily.dev/devcards/2d382251b9c44c1f9a1b8390b56ba4c6.png?r=z59" />&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
   <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="170" height="170"/>
-
-
 <!--
 **anshika2803/anshika2803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
 ###Here are some ideas to get you started:</br>
 
 - 🔭 I’m currently working on Full Stack Web Development 

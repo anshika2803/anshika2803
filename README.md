@@ -1,7 +1,8 @@
 ### <h2>नमस्ते (Namaste)🙏🏻, I'm Anshika!
   </br>
-  <img align="left"  src="https://media.giphy.com/media/lwTkLoHGpSDV4uK8oC/giphy.gif" alt="Anshika Maheshwari" width="600" height="150"/>
-  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshika2803" alt="gargakshit" /> </p>
+
+&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
   <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="170" height="170"/>
   </br></br></br>
 

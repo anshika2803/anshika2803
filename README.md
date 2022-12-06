@@ -23,3 +23,6 @@ Here are some ideas to get you started:-->
 </br>
 
 <p align='center'><img "300px" height="142px" src="https://github-readme-stats.vercel.app/api?username=anshika2803&count_private=true&theme=radical" alt="anshika2803" />&nbsp; &nbsp;<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika2803&layout=compact&theme=radical"/></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshika2803&theme=radical" alt="anshika2803" /></p>
+

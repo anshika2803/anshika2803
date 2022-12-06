@@ -22,4 +22,4 @@ Here are some ideas to get you started:-->
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anshika-maheshwari-6570209a/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](instagram.com/anshika_3082/) [<img src = "https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/anshika280301)
 </br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anshika2803&repo=github-readme-stats)](https://github.com/anshika2803/github-readme-stats)
+<p align='center'><img "300px" height="142px" src="https://github-readme-stats.vercel.app/api?username=anshika2803&count_private=true&theme=radical" alt="anshika2803" />&nbsp; &nbsp;<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika2803&layout=compact&theme=radical"/></p>

@@ -6,7 +6,6 @@
 <!--
 **anshika2803/anshika2803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ###Here are some ideas to get you started:</br>
-
 - 🔭 I’m currently working on Full Stack Web Development 
 - 🌱 I’m currently learning Solidity Programming
 - 👯 I’m looking to collaborate on Web3 projects

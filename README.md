@@ -22,7 +22,7 @@ robust engineering, and real-world product experiences.
 ## About me
 
 I'm a software engineer turned AI graduate student, with
-two years of experience building and maintaining
+three years of experience building and maintaining
 enterprise systems at **Barclays**.
 
 Currently pursuing my **MSc in Artificial Intelligence
